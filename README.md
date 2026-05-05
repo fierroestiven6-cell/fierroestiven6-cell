@@ -1,3 +1,12 @@
+<!--
+CONFIG
+FULL_NAME: Jorge Steven Gutierrez Fierro
+GITHUB_USER: fierroestiven6-cell
+EMAIL: fieroestiven6@gmail.com
+CODE_SENA_URL: code-sena
+-->
+
+
 # 🫶 Jorge Steven Gutiérrez Fierro🥰✨ 
 
 <<p align="center">
